@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/add_file" android:icon="@drawable/add_file" android:title="Add file" />
+    <item android:id="@+id/add_folder" android:icon="@drawable/add_folder" android:title="Add folder" />
+</menu>
